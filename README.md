@@ -67,6 +67,6 @@ Softmax Output – Probability distribution
 
 🤝 Acknowledgements
 Dataset: GTSRB Benchmark (http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
-Frameworks: TensorFlow (https://www.tensorflow.org/), Keras (https://keras.io/)
+Frameworks: TensorFlow (https://www.tensorflow.org/),  Keras (https://keras.io/)
 
 
